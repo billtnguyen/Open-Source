@@ -21,3 +21,5 @@ looking for good support on their software, they would have several options to c
 support to have the best service. With proprietary software, there is only one support because the company has the only source code, and the user would have to use their support
 whether they want to or not which would not encourage for improvement. It’s interesting to see how Open Software can affect how much freedom a user can have with their software
 and how it affects with their decisions with the software, and how much they learn how to modify their software.
+
+Source: _Revoultion OS, https://www.youtube.com/watch?v=jw8K460vx1c_
